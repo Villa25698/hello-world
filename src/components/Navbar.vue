@@ -14,7 +14,7 @@
   
   <style scoped>
 nav {
-  background-color: #f8f9fa; /* Light gray background */
+  background-color: #160808; /* Light gray background */
   padding: 16px; /* Padding around the nav items */
   text-align: center; /* Center the nav items */
 }
