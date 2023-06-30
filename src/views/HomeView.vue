@@ -59,7 +59,8 @@ export default {
 <style scoped>  
 .video {
   width: 100%; /* take up full width */
-  height: 100vh; /* take up full viewport height */
+  height: calc(100vh - 50px - 50px); /* viewport height minus navbar and footer height */
   object-fit: cover; /* maintain aspect ratio while filling container */
 }
+
 </style>  
